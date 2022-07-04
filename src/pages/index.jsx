@@ -51,21 +51,26 @@ const IndexPage = function (props) {
 
   return (
     <div>
-      {/* <SimpleReactLightbox> */}
       <Helmet>
         <title>{languageToUse.indexTitle}</title>
         <meta name="robots" content="index, follow" />
         <meta name="description" content={languageToUse.metaDescription} />
         <meta name="keywords" content={languageToUse.metaKeywords} />
         <link rel="canonical" href={intakeInfo.domainName} />
+        <script
+          src="https://cdn2.woxo.tech/a.js#60ca0c172d51e300159c2b7c"
+          async
+          data-usrc
+        ></script>
       </Helmet>
       <Link to="/" id="top" className="scroll-down">
         <img src={top} className="top-link" alt="Back to top" />
       </Link>
       <Intro language={language} languageToUse={languageToUse} />
       <Destination language={language} languageToUse={languageToUse} />
+      <div data-mc-src="f74096ba-47e0-4c7f-872a-0e4f2149245c#instagram" />
+
       <Contact language={language} languageToUse={languageToUse} />
-      {/* </SimpleReactLightbox> */}
     </div>
   );
 };

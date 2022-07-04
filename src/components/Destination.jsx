@@ -105,41 +105,7 @@ const Destination = (props) => {
         </div>
       </div>
 
-      <img src={destinationBanner} alt="" className="destination-banner" />
-      {/* <SRLWrapper>
-        <div className="destination-images">
-          <img
-            src={destination1}
-            alt={languageToUse.destination1Alt}
-            className="destination-image"
-          />
-          <img
-            src={destination2}
-            alt={languageToUse.destination2Alt}
-            className="destination-image"
-          />
-          <img
-            src={destination3}
-            alt={languageToUse.destination3Alt}
-            className="destination-image"
-          />
-          <img
-            src={destination4}
-            alt={languageToUse.destination4Alt}
-            className="destination-image"
-          />
-          <img
-            src={destination5}
-            alt={languageToUse.destination5Alt}
-            className="destination-image"
-          />
-          <img
-            src={destination2}
-            alt={languageToUse.destination2Alt}
-            className="destination-image"
-          />
-        </div>
-      </SRLWrapper> */}
+      {/* <img src={destinationBanner} alt="" className="destination-banner" /> */}
     </div>
   );
 };
