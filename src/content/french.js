@@ -174,7 +174,7 @@ export const french = {
   bookingPageTitle: "Réservez votre séjour",
   bookingPageSubTitle: "Vérifier les disponibilités",
   additionalInfo:
-    "For reservations for more than 4 people, please contact us directly.",
+    "En fonction de la période un minimum de nuit est requis. Pour les demandes pour 4 personnes merci de nous contacter en direct par email.",
   bookingChaletPageTitle: "Réservez le Chalet",
   bookingAppartPageTitle: "Réservez l'Appart",
   bookingPavillionPageTitle: "Réservez le Pavillon",

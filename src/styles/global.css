@@ -66,9 +66,12 @@ h1 {
 }
 
 h3,
-h4,
 h5 {
   font-family: "Basic Title Font";
+}
+
+h4 {
+  font-family: "Hello mozza";
 }
 
 h4,

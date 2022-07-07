@@ -149,7 +149,7 @@ export const dutch = {
   bookingPageSubTitle: "Bekijk beschikbaarheid",
 
   additionalInfo:
-    "For reservations for more than 4 people, please contact us directly.",
+    "Afhankelijk van de periode, kan er een minimun aantal nachten gehandhaafd worden. Voor reserveringen voor 4 personen kunt u contact met ons opnemen per email.",
 
   bookingChaletPageTitle: "Boek le Chalet",
   bookingAppartPageTitle: "Boek l'Appart",

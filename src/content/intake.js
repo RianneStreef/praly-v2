@@ -6,7 +6,7 @@ const intakeInfo = {
 
   siteName: "Les Lodges de Praly",
 
-  taxNumber: "1313",
+  taxNumber: "91330309500016",
 };
 
 export default intakeInfo;

@@ -165,7 +165,7 @@ export const english = {
   bookingPageSubTitle: "Check availability",
 
   additionalInfo:
-    "For reservations for more than 4 people, please contact us directly.",
+    "Depending on the period, a minimum number of nights might be required. For reservations for 4 people, please contact us directly by mail.",
 
   bookingChaletPageTitle: "Book le Chalet",
   bookingAppartPageTitle: "Book l'Appart",
