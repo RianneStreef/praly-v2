@@ -130,6 +130,7 @@
 
 .facilities-list {
   list-style-type: none;
+  padding: 0;
 }
 
 .facilities-list li {
@@ -219,6 +220,9 @@
 
   .herbergement-button {
     font-size: 40px;
+  }
+  .facilities-list {
+    padding: 40px;
   }
 }
 
