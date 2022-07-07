@@ -7,10 +7,7 @@ import "../styles/Appart.css";
 import pictoAppartColor from "../images/appart-couleur.png";
 
 import { content } from "../content/languages";
-
-import comingSoonFR from "../images/DISPO-BIENTOT.jpg";
-import comingSoonEN from "../images/Available-soon.jpg";
-import comingSoonNL from "../images/Binnenkort-beschikbaar.jpg";
+import Lightbox from "../components/external-components/lightbox/Lightbox";
 
 import appart from "../images/picto-appart.png";
 import vueVillage from "../images/icons/vue-village.png";
@@ -36,146 +33,16 @@ const Appart = (props) => {
 
   let images = data.allContentfulPraly.nodes;
 
-  const imagesListFrench = (
-    <>
-      <div className="room-description-image-container">
-        <img
-          src={comingSoonFR}
-          alt="Bientôt disponible"
-          className="thumbnail-image coming-soon-image"
-        />
-      </div>
-      <div className="room-description-image-container">
-        <img
-          src={comingSoonFR}
-          alt="Bientôt disponible"
-          className="thumbnail-image coming-soon-image"
-        />
-      </div>
-      <div className="room-description-image-container">
-        <img
-          src={comingSoonFR}
-          alt="Bientôt disponible"
-          className="thumbnail-image coming-soon-image"
-        />
-      </div>
-      <div className="room-description-image-container">
-        <img
-          src={comingSoonFR}
-          alt="Bientôt disponible"
-          className="thumbnail-image coming-soon-image"
-        />
-      </div>
-      <div className="room-description-image-container">
-        <img
-          src={comingSoonFR}
-          alt="Bientôt disponible"
-          className="thumbnail-image coming-soon-image"
-        />
-      </div>
-      <div className="room-description-image-container">
-        <img
-          src={comingSoonFR}
-          alt="Bientôt disponible"
-          className="thumbnail-image coming-soon-image"
-        />
-      </div>
-    </>
-  );
-
-  const imagesListEnglish = (
-    <>
-      <div className="room-description-image-container">
-        <img
-          src={comingSoonEN}
-          alt="Coming soon"
-          className="thumbnail-image coming-soon-image"
-        />
-      </div>
-      <div className="room-description-image-container">
-        <img
-          src={comingSoonEN}
-          alt="Coming soon"
-          className="thumbnail-image coming-soon-image"
-        />
-      </div>
-      <div className="room-description-image-container">
-        <img
-          src={comingSoonEN}
-          alt="Coming soon"
-          className="thumbnail-image coming-soon-image"
-        />
-      </div>
-      <div className="room-description-image-container">
-        <img
-          src={comingSoonEN}
-          alt="Coming soon"
-          className="thumbnail-image coming-soon-image"
-        />
-      </div>
-      <div className="room-description-image-container">
-        <img
-          src={comingSoonEN}
-          alt="Coming soon"
-          className="thumbnail-image coming-soon-image"
-        />
-      </div>
-      <div className="room-description-image-container">
-        <img
-          src={comingSoonEN}
-          alt="Coming soon"
-          className="thumbnail-image coming-soon-image"
-        />
-      </div>
-    </>
-  );
-
-  const imagesListDutch = (
-    <>
-      <div className="room-description-image-container">
-        <img
-          src={comingSoonNL}
-          alt="Binnenkort beschikbaar"
-          className="thumbnail-image coming-soon-image"
-        />
-      </div>
-      <div className="room-description-image-container">
-        <img
-          src={comingSoonNL}
-          alt="Binnenkort beschikbaar"
-          className="thumbnail-image coming-soon-image"
-        />
-      </div>
-      <div className="room-description-image-container">
-        <img
-          src={comingSoonNL}
-          alt="Binnenkort beschikbaar"
-          className="thumbnail-image coming-soon-image"
-        />
-      </div>
-      <div className="room-description-image-container">
-        <img
-          src={comingSoonNL}
-          alt="Binnenkort beschikbaar"
-          className="thumbnail-image coming-soon-image"
-        />
-      </div>
-      <div className="room-description-image-container">
-        <img
-          src={comingSoonNL}
-          alt="Binnenkort beschikbaar"
-          className="thumbnail-image coming-soon-image"
-        />
-      </div>
-      <div className="room-description-image-container">
-        <img
-          src={comingSoonNL}
-          alt="Binnenkort beschikbaar"
-          className="thumbnail-image coming-soon-image"
-        />
-      </div>
-    </>
-  );
+  const lightboxImages = images
+    .filter((image) => image.category === "appart")
+    .map((image) => {
+      return {
+        id: image.index,
+        src: image.fullImage.file.url,
+        thumbnail: image.thumbnail.file.url,
+        alt: "",
+      };
+    });
 
   return (
     <>
@@ -209,13 +76,7 @@ const Appart = (props) => {
           <p className="room-text">{languageToUse.appartP3}</p>
         </div>
         <div className="room-description room-description-appart">
-          {language === "french" ? (
-            <div className="room-description-images">{imagesListFrench}</div>
-          ) : language === "english" ? (
-            <div className="room-description-images">{imagesListEnglish}</div>
-          ) : (
-            <div className="room-description-images">{imagesListDutch}</div>
-          )}
+          <Lightbox lightboxImages={lightboxImages} />
           <div className="room-description-list">
             <h3 className="installations-title">
               {languageToUse.installations}
