@@ -66,12 +66,9 @@ h1 {
 }
 
 h3,
+h4,
 h5 {
   font-family: "Basic Title Font";
-}
-
-h4 {
-  font-family: "Hello mozza";
 }
 
 h4,
@@ -102,6 +99,13 @@ h5 {
   text-transform: uppercase;
   padding: 0 5vw;
   margin-top: 0;
+}
+
+h6 {
+  font-family: "Hello mozza";
+  font-size: 4rem;
+  text-transform: uppercase;
+  margin: 20px;
 }
 
 a {

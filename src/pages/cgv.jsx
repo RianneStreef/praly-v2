@@ -10,7 +10,7 @@ const CGVPage = () => {
     <div className="cgv">
       <div className="header-placeholder" />
       <h1>CONDITIONS GENERALES DE VENTE / REGLEMENT INTERIEUR</h1>
-      <h4>Article 1- Le contrat</h4>
+      <h6>Article 1- Le contrat</h6>
       <ul>
         <li>
           Le contrat de location saisonnière est réalisé entre le propriétaire «
@@ -30,7 +30,7 @@ const CGVPage = () => {
           présent contrat.
         </li>
       </ul>
-      <h4>Article 2 – Utilisation des lieux</h4>
+      <h6>Article 2 – Utilisation des lieux</h6>
       <ul>
         <li>
           L’hôte locataire jouira de la location d’une manière paisible et en
@@ -56,13 +56,13 @@ const CGVPage = () => {
           respecter la quiétude des voisins de jour comme de nuit.
         </li>
       </ul>
-      <h4>Article 3 – Durée du séjour</h4>
+      <h6>Article 3 – Durée du séjour</h6>
       <p>
         Le locataire signataire du présent contrat conclu pour une durée
         déterminée ne pourra en aucune circonstance se prévaloir d’un quelconque
         droit au maintien dans les lieux.
       </p>
-      <h4>Article 4 – Conclusion du contrat</h4>
+      <h6>Article 4 – Conclusion du contrat</h6>
       <ul>
         <li>
           La réservation devient effective dès lors que le client aura fait
@@ -81,7 +81,7 @@ const CGVPage = () => {
           sur place en chèques ou espèces.
         </li>
       </ul>
-      <h4>Article 5 – Dépôt de garantie ou caution</h4>
+      <h6>Article 5 – Dépôt de garantie ou caution</h6>
       <ul>
         <li>
           Le montant du dépôt de garantie est de 500€ pour « L’Appart » et « Le
@@ -94,7 +94,7 @@ const CGVPage = () => {
           lieux de sortie, des dégradations aux biens loués.
         </li>
       </ul>
-      <h4>Article 6 – Annulation</h4>
+      <h6>Article 6 – Annulation</h6>
       <p>
         De la part du locataire : Toute annulation doit être notifiée au
         propriétaire avant le début du séjour :
@@ -120,7 +120,7 @@ const CGVPage = () => {
         recommandée avec avis de réception. Le client sera remboursé
         immédiatement des sommes versées.
       </p>
-      <h4>Article 8 – Arrivées/départs</h4>
+      <h6>Article 8 – Arrivées/départs</h6>
       <ul>
         <li>
           Le locataire doit se présenter le jour précisé et aux heures
@@ -136,19 +136,19 @@ const CGVPage = () => {
           propriétaire.
         </li>
       </ul>
-      <h4>Article 9 – Capacité</h4>
+      <h6>Article 9 – Capacité</h6>
       <p>
         Le présent contrat est établi pour un nombre précis de personnes. Au cas
         où le nombre de personnes acceptées qui est mentionné dans le contrat
         serait dépassé. Le loueur se réserve le droit de refuser les locataires
         supplémentaires, ou de percevoir une majoration.
       </p>
-      <h4>Article 10 – Animaux</h4>
+      <h6>Article 10 – Animaux</h6>
       <p>
         Les animaux de compagnie et familiers, ne sont pas admis (sauf accord
         préalable et exceptionnel précisé sur le contrat).
       </p>
-      <h4>Article 11 – Assurances</h4>
+      <h6>Article 11 – Assurances</h6>
       <ul>
         <li>
           Le locataire est tenu d’être assuré par un contrat responsabilité
@@ -162,7 +162,7 @@ const CGVPage = () => {
           ses dépendances ou accessoires.
         </li>
       </ul>
-      <h4>Article 12 – Sécurité piscine</h4>
+      <h6>Article 12 – Sécurité piscine</h6>
       <p>
         La piscine est ouverte de 10h00 à 19h00, sans surveillance, donc sous
         votre responsabilité. Le propriétaire se dégage de toutes
