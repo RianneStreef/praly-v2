@@ -110,9 +110,8 @@ export const dutch = {
     "Het kleine extraatje: de houtkachel, om van koelere avonden te genieten!",
 
   pavillionP1:
-    "Dit is de lodge waar de ruimte is geoptimaliseerd: klein en gezellig! Het kleine extraatje: mogelijkheid om nog een lodge toe te voegen naast de accommodatie (d.w.z. 7 personen in totaal), met terras en gemeenschappelijke tuin.",
-  pavillionP2:
-    "Deze studio is ideaal voor 2 personen, een slaapgedeelte met een tweepersoonsbed, een zithoek en een eethoek, om nog maar te zwijgen van het privéterras in de schaduw van de dennenbomen.",
+    "Dit is de lodge waar de ruimte is geoptimaliseerd: Deze studio is ideaal voor 2 personen, een slaapgedeelte met een tweepersoonsbed, een zithoek en een eethoek, om nog maar te zwijgen van het terras in de schaduw van de dennenbomen. Het terras grenst aan een andere accommodatie maar heeft ieder zijn eigen privacy!",
+  pavillionP2: "",
 
   pavillionLi1: "20m2 accommodatie",
   pavillionLi2: "Tweepersoonsbed 140x200cm",

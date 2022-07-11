@@ -86,7 +86,7 @@ const Pavillion = (props) => {
         </div>
         <div className="room-description-text">
           <p className="room-text">{languageToUse.pavillionP1}</p>
-          <p className="room-text">{languageToUse.pavillionP2}</p>
+          {/* <p className="room-text">{languageToUse.pavillionP2}</p> */}
         </div>
         <div className="room-description room-description-chalet">
           <div className="room-description-images">

@@ -127,7 +127,7 @@ export const english = {
   chaletP4: "The little extra: The wood stove, to enjoy cooler evenings!",
 
   pavillionP1:
-    "Here is the lodge where space is optimized: small, but cozy! This studio is ideal for 2 people, a sleeping area with a double bed, a lounge area & a dining area, not to mention its private terrace in the shade of the pine tree.",
+    "Here is the lodge where space is optimized: small, and cozy! This studio is ideal for 2 people, a sleeping area with a double bed, a lounge area & a dining area, not to mention its private terrace in the shade of the pine tree. The terrace is adjoining with another accommodation but each has its own privacy!",
   pavillionP2:
     "The little extra: its terrace in the shade of the large pine tree.",
   pavillionLi1: "20m2 accommodation",
@@ -140,7 +140,7 @@ export const english = {
   pavillionLi8: "Baby cod on reservation (no supplement)",
 
   appartP1:
-    "Accommodation located on the 1st floor of the large stone house; it can accommodate up to 5 people. Bright & spacious, you will feel at home! A bedroom with a double bed, a living room with two convertible sofas (2 people and 1 person), an equipped kitchen, a bathroom with shower and separate WC.",
+    "Accommodation located on the 1st floor of the large stone house; it can accommodate up to 4 people. Bright & spacious, you will feel at home! A bedroom with a double bed, a living room with two convertible sofas (2 people and 1 person), an equipped kitchen, a bathroom with shower and separate WC.",
   appartP2:
     "Not to mention its private terrace with a small outdoor kitchen for meals in the open air!",
 
