@@ -134,7 +134,6 @@ const Appart = (props) => {
             </div>
           </div>
         </div>
-        <p className="coming-soon">{languageToUse.comingSoon}</p>
       </div>
     </>
   );

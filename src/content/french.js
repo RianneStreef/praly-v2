@@ -57,9 +57,9 @@ export const french = {
   introTextChalet:
     "Cet hébergement unique & atypique se situe au calme sur les hauteurs du site. Notre chalet en bois tout cocon vous accueille au milieu des bambous & des pins. Ici on vit au rythme de la nature avec ses grandes ouvertures vitrées, idéal pour faire le plein de luminosité & admirer les ciels étoilés.",
   introTextAppart:
-    "Hébergement situé au 1er étage de la grande maison en pierre, il peut accueillir jusqu’à 5 personnes. Lumineux & spacieux, vous vous y sentirez comme à la maison !",
+    "Hébergement situé au 1er étage de la grande maison en pierre, il peut accueillir jusqu’à 4 personnes. Lumineux & spacieux, vous vous y sentirez comme à la maison !",
   introTextPavillion:
-    "Ici c’est le lodge où l’on optimise l’espace : petit, mais cosy ! Le p’tit’ plus : possibilité d’ajouter un autre lodge attenant à la location (soit 7personnes au total), avec terrasse & jardin commun.",
+    "Ici c’est le lodge où l’on optimise l’espace : petit et cosy ! Le p’tit’ plus : possibilité d’ajouter un autre lodge attenant à la location (soit 7personnes au total), avec terrasse & jardin commun.",
 
   introTextChalet2:
     "Une chambre en mezzanine avec lit double, un salon sous la verrière qui peut également se transformer en coin nuit (canapé convertible), une salle de bain avec baignoire et WC, une cuisine toute équipée, et une terrasse pour les repas au grand air ! Une décoration soignée pour un confort absolu !",

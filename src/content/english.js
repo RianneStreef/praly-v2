@@ -57,9 +57,9 @@ export const english = {
   introTextChalet:
     "This unique & atypical accommodation is quietly located on the heights of our site. Our cocoon wooden chalet welcomes you in the middle of bamboos & pines. Here we live to the rhythm of nature with its large windows, ideal for filling up with light & admiring the starry skies.",
   introTextAppart:
-    "Accommodation located on the 1st floor of the large stone house; it can accommodate up to 5 people. Bright & spacious, you will feel at home! ",
+    "Accommodation located on the 1st floor of the large stone house; it can accommodate up to 4 people. Bright & spacious, you will feel at home! ",
   introTextPavillion:
-    "Here is the lodge where space is optimized: small, but cozy!",
+    "Here is the lodge where space is optimized: small and cozy!",
 
   introTextChalet2:
     "A bedroom on the mezzanine with a double bed, a living room under the glass roof which can also be transformed into a sleeping area (sofa bed), a bathroom with bathtub and WC, a fully equipped kitchen, and a terrace for meals in the open air!",

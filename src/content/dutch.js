@@ -41,7 +41,7 @@ export const dutch = {
   introTextChalet:
     "Deze unieke en atypische accommodatie is rustig gelegen hoog op het terrein. Ons knusse houten chalet verwelkomt u te midden van bamboe en dennen. Hier leven we op het ritme van de natuur. Het Chalet met zijn grote ramen is ideaal om te vullen met licht en om de sterrenhemel te bewonderen.",
   introTextAppart:
-    "Deze accommodatie is gelegen op de 1e verdieping van het grote stenen huis en is geschikt voor maximaal 5 personen. Licht en ruim, je zult je meteen thuis voelen!",
+    "Deze accommodatie is gelegen op de 1e verdieping van het grote stenen huis en is geschikt voor maximaal 4 personen. Licht en ruim, je zult je meteen thuis voelen!",
   introTextPavillion:
     "Dit is de lodge waar de ruimte is geoptimaliseerd: klein, maar gezellig! Het kleine extraatje: mogelijkheid om nog een lodge toe te voegen naast de accommodatie (d.w.z. 7 personen in totaal), met terras en gemeenschappelijke tuin.",
   introTextChalet2:
@@ -118,7 +118,7 @@ export const dutch = {
   pavillionLi7: "Beveiligde fietsenstalling",
 
   appartP1:
-    "Deze accommodatie is gelegen op de 1e verdieping van het grote stenen huis en is geschikt voor maximaal 5 personen. Licht en ruim, je zult je meteen thuis voelen!",
+    "Deze accommodatie is gelegen op de 1e verdieping van het grote stenen huis en is geschikt voor maximaal 4 personen. Licht en ruim, je zult je meteen thuis voelen!",
   appartP2:
     "Een slaapkamer met een tweepersoonsbed, een woonkamer met twee slaapbanken (2 tweepersoons bed en 1 éénpersoons bed), een ingerichte keuken, een badkamer met douche en apart toilet. Om nog maar te zwijgen van het privéterras met een kleine buitenkeuken voor maaltijden in de open lucht!",
 
