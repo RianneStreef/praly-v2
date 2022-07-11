@@ -87,6 +87,12 @@ const Intro = (props) => {
                 <li>{languageToUse.privatisationText3}</li>
               </ul>
             </p>
+            <a
+              href="mailto:contact@leslodgesdepraly.fr"
+              className="devis-button"
+            >
+              {languageToUse.devis}
+            </a>
           </div>
         </div>
       </div>

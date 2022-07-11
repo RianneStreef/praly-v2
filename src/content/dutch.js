@@ -43,7 +43,7 @@ export const dutch = {
   introTextAppart:
     "Deze accommodatie is gelegen op de 1e verdieping van het grote stenen huis en is geschikt voor maximaal 4 personen. Licht en ruim, je zult je meteen thuis voelen!",
   introTextPavillion:
-    "Dit is de lodge waar de ruimte is geoptimaliseerd: klein, maar gezellig! Het kleine extraatje: mogelijkheid om nog een lodge toe te voegen naast de accommodatie (d.w.z. 7 personen in totaal), met terras en gemeenschappelijke tuin.",
+    "Dit is de lodge waar de ruimte is geoptimaliseerd: klein, maar gezellig! Het kleine extraatje: het terras in de schaduw van de grote den.",
   introTextChalet2:
     "Een slaapkamer op de mezzanine met een tweepersoonsbed, een woonkamer onder het glazen dak die ook kan worden omgevormd tot een slaapgedeelte (slaapbank), een badkamer met ligbad en toilet, een volledig uitgeruste keuken en een terras voor maaltijden in de open lucht! Alles is zorgvuldig gedecoreerd voor absoluut comfort!",
   introTextAppart2:
@@ -59,6 +59,8 @@ export const dutch = {
   privatisationText2:
     " (keuken, gemeenschappelijke ruimte en slaapkamer voor 3 personen met douche) ",
   privatisationText3: "voor een supplement van 100€ /dag.",
+
+  devis: "Uw prijsopgaaf",
 
   destinationTitle1: "Bestemming",
   destinationTitle2: "ARDÈCHE BUISSONNIÈRE",
@@ -98,14 +100,17 @@ export const dutch = {
   chaletLi5: "Bluetooth speaker",
   chaletLi6: "Toegang tot het zwembad",
   chaletLi7: "Privétuin met hangmat, ligstoel en BBQ!",
+  chaletLi7b: "Airconditioning",
+
   chaletLi8: "Gratis parkeren in de buurt",
   chaletLi9: "Beveiligde fietsenstalling",
+  chaletLi9b: "Baby bed op reservering (zonder toeslag)",
 
   chaletP4:
     "Het kleine extraatje: de houtkachel, om van koelere avonden te genieten!",
 
   pavillionP1:
-    "Dit is de lodge waar de ruimte is geoptimaliseerd: klein, maar gezellig! Het kleine extraatje: mogelijkheid om nog een lodge toe te voegen naast de accommodatie (d.w.z. 7 personen in totaal), met terras en gemeenschappelijke tuin.",
+    "Dit is de lodge waar de ruimte is geoptimaliseerd: klein en gezellig! Het kleine extraatje: mogelijkheid om nog een lodge toe te voegen naast de accommodatie (d.w.z. 7 personen in totaal), met terras en gemeenschappelijke tuin.",
   pavillionP2:
     "Deze studio is ideaal voor 2 personen, een slaapgedeelte met een tweepersoonsbed, een zithoek en een eethoek, om nog maar te zwijgen van het privéterras in de schaduw van de dennenbomen.",
 
@@ -116,6 +121,7 @@ export const dutch = {
   pavillionLi5: "Toegang tot het zwembad",
   pavillionLi6: "Gratis parkeren in de buurt",
   pavillionLi7: "Beveiligde fietsenstalling",
+  pavillionLi8: "Baby bed op reservering (zonder toeslag)",
 
   appartP1:
     "Deze accommodatie is gelegen op de 1e verdieping van het grote stenen huis en is geschikt voor maximaal 4 personen. Licht en ruim, je zult je meteen thuis voelen!",
@@ -124,17 +130,17 @@ export const dutch = {
 
   appartLiExtrasTitle: "De kleine extraatjes:",
   appartLiExtra1: "de plancha op het terras met een kleine zomerloggia!",
-  appartLiExtra2:
-    "mogelijkheid om nog een lodge toe te voegen naast de accommodatie (d.w.z. 7 personen in totaal), met terras en gemeenschappelijke tuin.",
+  appartLiExtra2: "het terras in de schaduw van de grote den.",
 
   appartLi1: "50m2 accommodatie",
   appartLi2: "Slaapkamer met tweepersoonsbed 160x200cm",
-  appartLi3: "Slaapbank 140x190cm + slaapbank 110x190cm",
+  appartLi3: "Slaapbank 140x190cm",
   appartLi4: "Douche",
   appartLi5: "Bluetooth speaker",
   appartLi6: "Toegang tot het zwembad",
   appartLi7: "Gratis parkeren in de buurt",
   appartLi8: "Beveiligde fietsenstalling",
+  appartLi9: "Baby bed op reservering (zonder toeslag)",
 
   contactTitle: "Een vraag? ",
   contactIntro: "Neem gerust contact met ons op!",

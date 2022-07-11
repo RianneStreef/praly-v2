@@ -59,7 +59,7 @@ export const french = {
   introTextAppart:
     "Hébergement situé au 1er étage de la grande maison en pierre, il peut accueillir jusqu’à 4 personnes. Lumineux & spacieux, vous vous y sentirez comme à la maison !",
   introTextPavillion:
-    "Ici c’est le lodge où l’on optimise l’espace : petit et cosy ! Le p’tit’ plus : possibilité d’ajouter un autre lodge attenant à la location (soit 7personnes au total), avec terrasse & jardin commun.",
+    "Ici c’est le lodge où l’on optimise l’espace : petit et cosy ! Le p’tit’ plus : sa terrasse à l'ombre du grand pin parasol",
 
   introTextChalet2:
     "Une chambre en mezzanine avec lit double, un salon sous la verrière qui peut également se transformer en coin nuit (canapé convertible), une salle de bain avec baignoire et WC, une cuisine toute équipée, et une terrasse pour les repas au grand air ! Une décoration soignée pour un confort absolu !",
@@ -78,6 +78,8 @@ export const french = {
     "- Possibilité de privatiser l’ensemble des 3 lodges avec une capacité de couchage de 6 à 10 personnes (canapé convertible compris). ",
   privatisationText3:
     "- Possibilité de réserver la « Pool house », notre bâtiment autour de la piscine avec cuisine commune, salle à manger intérieure et terrasse extérieure piscine, chambre triple avec douche & WC. Supplément de 200€/jour et devis sur mesure.",
+
+  devis: "Votre devis",
 
   destinationTitle1: "DESTINATION",
   destinationTitle2: "L’ARDÈCHE BUISSONNIÈRE",
@@ -129,8 +131,7 @@ export const french = {
 
   pavillionP1:
     "Ici c’est le lodge où l’on optimise l’espace : petit, et cosy ! Ce studio est idéal pour 2 personnes, un coin nuit avec lit double, un coin salon & un coin repas, sans oublier sa terrasse à l’ombre du pin parasol. La terrasse est mitoyenne avec un autre hébergement mais chacun à son intimité !",
-  pavillionP2:
-    "Le p’tit’ plus : possibilité d’ajouter un autre lodge attenant à la location (soit 6 personnes au total), avec terrasse & jardin commun.",
+  pavillionP2: "Le p’tit’ plus :sa terrasse à l'ombre du grand pin parasol",
 
   pavillionLi1: "20m2 hébergement",
   pavillionLi2: "Vue village & vallée",
@@ -154,7 +155,7 @@ export const french = {
   appartLi1: "50m2 hébergement",
   appartLi2: "Vue village & vallée",
   appartLi3: "Chambre avec lit double en 160x200cm OU deux lits en 80x200cm",
-  appartLi4: "Canapé convertible 140x190cm + un canapé convertible 110x190cm",
+  appartLi4: "Canapé convertible 140x190cm",
   appartLi5: "Douche",
   appartLi6: "Enceinte Bluetooth",
   appartLi7: "Accès piscine",

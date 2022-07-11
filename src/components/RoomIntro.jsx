@@ -137,8 +137,6 @@ const RoomIntro = (props) => {
           </Link>
         </div>
         <div className="room-intro2">
-          <p className="coming-soon">{languageToUse.comingSoon}</p>
-
           <Link
             to="/hebergements/#appart"
             className="room-info-button room-info-button-left  mobile-only"

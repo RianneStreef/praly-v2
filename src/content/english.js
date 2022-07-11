@@ -59,7 +59,7 @@ export const english = {
   introTextAppart:
     "Accommodation located on the 1st floor of the large stone house; it can accommodate up to 4 people. Bright & spacious, you will feel at home! ",
   introTextPavillion:
-    "Here is the lodge where space is optimized: small and cozy!",
+    "Here is the lodge where space is optimized: small and cozy! The little extra: its terrace in the shade of the large pine tree.",
 
   introTextChalet2:
     "A bedroom on the mezzanine with a double bed, a living room under the glass roof which can also be transformed into a sleeping area (sofa bed), a bathroom with bathtub and WC, a fully equipped kitchen, and a terrace for meals in the open air!",
@@ -78,6 +78,8 @@ export const english = {
     " (kitchen, common room & bedroom sleeping 3 with shower) ",
   privatisationText3: "with a supplement of 100€/day.",
 
+  devis: "Your quotation",
+
   destinationTitle1: "DESTINATION",
   destinationTitle2: "ARDÈCHE BUISSONNIÈRE",
   destinationText1:
@@ -93,13 +95,13 @@ export const english = {
     "Valence TGV Rhône Alpes Sud station (2h10 from Paris) or Valence Ville station",
   destinationText7: "Our tips, from Les Lodges de Praly :",
   destinationText8:
-    "50m from the Dolce Via, a 5 minute walk from the village shops (bakery, grocery store, restaurants, bike rental, pharmacy, butcher), a 10 minute walk from the village public beach for canoe departures or enjoy swimming in complete safety.",
+    "- 50m from the Dolce Via, a 5 minute walk from the village shops (bakery, grocery store, restaurants, bike rental, pharmacy, butcher), a 10 minute walk from the village public beach for canoe departures or enjoy swimming in complete safety.",
   destinationText9:
-    "15 minutes by bike via the Dolce via (or 8 minutes by car!): Terre Adelice glacier, Aquarock tree climbing park & ​​La Cabane snack bar.",
+    "- 15 minutes by bike via the Dolce via (or 8 minutes by car!): Terre Adelice glacier, Aquarock tree climbing park & ​​La Cabane snack bar.",
   destinationText10:
-    "1 hour by car: the Ardéchois plateau with Mont Gerbier de Jonc, Mont Mésenc, the Ray Pic waterfalls... ",
+    "- 1 hour by car: the Ardéchois plateau with Mont Gerbier de Jonc, Mont Mésenc, the Ray Pic waterfalls... ",
   destinationText11:
-    "1h30 by car: The Ardèche gorges with the famous Pont d'Arc & the Grotte de Chauvet; The Gorges du Doux with the Ardèche steam train & The Peaugres safari.",
+    "- 1h30 by car: The Ardèche gorges with the famous Pont d'Arc & the Grotte de Chauvet; The Gorges du Doux with the Ardèche steam train & The Peaugres safari.",
 
   chaletP1:
     "This unique & atypical accommodation is quietly located on the heights of our site. Our cocoon wooden chalet welcomes you in the middle of bamboos & pines. Here we live to the rhythm of nature with its large windows, ideal for filling up with light & admiring the starry skies.",
@@ -116,15 +118,18 @@ export const english = {
   chaletLi5: "Bluetooth speaker",
   chaletLi6: "Swimmingpool access",
   chaletLi7: "Private garden with hammock, deckchair & BBQ!",
+  chaletLi7b: "Airconditioning",
+
   chaletLi8: "Free parking nearby",
   chaletLi9: "Secure bike parking",
+  chaletLi9b: "Baby cod on reservation (no supplement)",
 
   chaletP4: "The little extra: The wood stove, to enjoy cooler evenings!",
 
   pavillionP1:
     "Here is the lodge where space is optimized: small, but cozy! This studio is ideal for 2 people, a sleeping area with a double bed, a lounge area & a dining area, not to mention its private terrace in the shade of the pine tree.",
   pavillionP2:
-    "The little extra: possibility of adding another lodge adjoining the accommodation (i.e., 7 people in total), with terrace & shared garden.",
+    "The little extra: its terrace in the shade of the large pine tree.",
   pavillionLi1: "20m2 accommodation",
   pavillionLi2: "Double bed 140x200cm",
   pavillionLi3: "Douche",
@@ -132,6 +137,7 @@ export const english = {
   pavillionLi5: "Swimmingpool access",
   pavillionLi6: "Free parking nearby",
   pavillionLi7: "Secure bike parking",
+  pavillionLi8: "Baby cod on reservation (no supplement)",
 
   appartP1:
     "Accommodation located on the 1st floor of the large stone house; it can accommodate up to 5 people. Bright & spacious, you will feel at home! A bedroom with a double bed, a living room with two convertible sofas (2 people and 1 person), an equipped kitchen, a bathroom with shower and separate WC.",
@@ -145,12 +151,13 @@ export const english = {
 
   appartLi1: "50m2 accommodation",
   appartLi2: "Bedroom with double bed 160x200cm",
-  appartLi3: "Sofa bed 140x190cm + sofa bed 110x190cm",
+  appartLi3: "Sofa bed 140x190cm",
   appartLi4: "Douche",
   appartLi5: "Bluetooth speaker",
   appartLi6: "Swimmingpool access",
   appartLi7: "Free parking nearby",
   appartLi8: "Secure bike parking",
+  appartLi9: "Baby cod on reservation (no supplement)",
 
   contactTitle: "A question? ",
   contactIntro: "Do not hesitate to contact us",

@@ -94,7 +94,7 @@
 }
 
 .groups {
-  background-image: url("../images/hero.jpeg");
+  background-image: url("../images/slider//jardin2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   width: 90vw;
@@ -134,6 +134,27 @@
 
 .family-icon {
   width: 25vw;
+}
+
+.button {
+}
+
+.devis-button {
+  background-color: #000;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  margin: 20px auto;
+  text-transform: uppercase;
+  font-family: "Futura Bold";
+  border: 2px solid #000;
+}
+
+.devis-button:hover {
+  background-color: #fff;
+  color: #000;
+  border: 2px solid #000;
+  transition: all 250ms ease-in;
 }
 
 @media only screen and (min-width: 768px) {
