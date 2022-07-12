@@ -54,11 +54,14 @@ export const dutch = {
   comingSoon: "Binnenkort beschikbaar",
 
   privatisationTitle1: "Groepen",
+  privatisationTitle2: "En Privatisering",
+
   privatisationText1:
-    "Het is mogelijk om alle 3 de accommodaties, samen met het poolhouse te reserveren ",
+    "Wij accepteren groepen op aanvraag, met een persoonlijke prijsopgaaf afhangkelijk van het aantal personen. Maximale capaciteit: 12 personen.  ",
   privatisationText2:
-    " (keuken, gemeenschappelijke ruimte en slaapkamer voor 3 personen met douche) ",
-  privatisationText3: "voor een supplement van 100€ /dag.",
+    "- Mogelijkheid om alle 3 de accomodaties te privatiseren, met een capaciteit van 6 tot 10 personen (inclusief slaapbank). ",
+  privatisationText3:
+    "- Mogelijkheid om de « Pool house » te reserveren, onze accomodatie rondom het zwembad, met gemeenschappelijke keuken, eetkamer en terras, slaapkamer voor 3 personen met douche en toilet, voor een supplement van 100€ /dag met een persoonlijke prijsopgave.",
 
   devis: "Uw prijsopgaaf",
 

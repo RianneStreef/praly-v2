@@ -1,7 +1,6 @@
 .room-intro {
   /* padding-top: 80px; */
   margin-bottom: 10vw;
-  margin-top: 170px;
 }
 
 .image-links {
@@ -361,6 +360,10 @@
 
   .room-info-button-left {
     margin: 50px;
+  }
+
+  .room-intro {
+    margin-top: 170px;
   }
 
   .room-intro1 {

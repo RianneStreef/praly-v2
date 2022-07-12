@@ -73,10 +73,11 @@ export const english = {
   privatisationTitle1: "GROUPS",
   privatisationTitle2: "PRIVATIZATION ",
   privatisationText1:
-    "Possibility to privatize all 3 lodges on request and to reserve the pool house",
+    "Possibility to privatize all 3 lodges on request with a personalized quotation depending on the number of people. Maximum capacity: 12 persons.",
   privatisationText2:
-    " (kitchen, common room & bedroom sleeping 3 with shower) ",
-  privatisationText3: "with a supplement of 100€/day.",
+    " - Posibility de privatize the 3 lodges wich can accomodate between 6 and 10 people (sofa beds included).  ",
+  privatisationText3:
+    "- Posibility to book the « Pool house », our building next to the pool, with a kitchen, dining room and terrace, triple bedroom and douche and toilet. Supplement of 100€/day and with a personalized quotation.",
 
   devis: "Your quotation",
 

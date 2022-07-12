@@ -23,7 +23,6 @@ const RoomIntro = (props) => {
   return (
     <>
       <div className="room-intro" id="accommodation">
-        <div className="header-placeholder" />
         <h2>{languageToUse.ourRooms1}</h2>
         <h2>{languageToUse.ourRooms2}</h2>
 

@@ -11,7 +11,7 @@ import img6 from "../images/slider/chalet-window.jpg";
 import img7 from "../images/slider/chalet-chambre.jpg";
 import img8 from "../images/slider/chambre1.jpg";
 import img9 from "../images/slider/surroundings.jpg";
-import img10 from "../images/slider/jardin.jpg";
+import img10 from "../images/slider/batiment-piscine.jpg";
 // a changer
 
 const Slider = () => {
