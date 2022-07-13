@@ -141,7 +141,7 @@ export const english = {
   pavillionLi8: "Baby cod on reservation (no supplement)",
 
   appartP1:
-    "Accommodation located on the 1st floor of the large stone house; it can accommodate up to 4 people. Bright & spacious, you will feel at home! A bedroom with a double bed, a living room with two convertible sofas (2 people and 1 person), an equipped kitchen, a bathroom with shower and separate WC.",
+    "Accommodation located on the 1st floor of the large stone house; it can accommodate up to 4 people. Bright & spacious, you will feel at home! A bedroom with a double bed, a living room with a convertible sofa, an equipped kitchen, a bathroom with shower and separate WC.",
   appartP2:
     "Not to mention its private terrace with a small outdoor kitchen for meals in the open air!",
 

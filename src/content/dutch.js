@@ -128,7 +128,7 @@ export const dutch = {
   appartP1:
     "Deze accommodatie is gelegen op de 1e verdieping van het grote stenen huis en is geschikt voor maximaal 4 personen. Licht en ruim, je zult je meteen thuis voelen!",
   appartP2:
-    "Een slaapkamer met een tweepersoonsbed, een woonkamer met twee slaapbanken (2 tweepersoons bed en 1 éénpersoons bed), een ingerichte keuken, een badkamer met douche en apart toilet. Om nog maar te zwijgen van het privéterras met een kleine buitenkeuken voor maaltijden in de open lucht!",
+    "Een slaapkamer met een tweepersoonsbed, een woonkamer met een slaapbank, een ingerichte keuken, een badkamer met douche en apart toilet. Om nog maar te zwijgen van het privéterras met een kleine buitenkeuken voor maaltijden in de open lucht!",
 
   appartLiExtrasTitle: "De kleine extraatjes:",
   appartLiExtra1: "de plancha op het terras met een kleine zomerloggia!",

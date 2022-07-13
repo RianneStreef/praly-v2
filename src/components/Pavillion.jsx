@@ -24,6 +24,8 @@ import bikeParking from "../images/icons/velo.png";
 import clim from "../images/icons/clim.png";
 import bebe from "../images/icons/lit-bébé.png";
 
+import pavillionImage from "../images/new-images/pavillon-façade.jpg";
+
 const Pavillion = (props) => {
   let { language, languageToUse } = props;
 
@@ -82,6 +84,11 @@ const Pavillion = (props) => {
             >
               <source src={videoRoom1} type="video/mp4" />
             </video>
+            <img
+              src={pavillionImage}
+              alt="Le Chalet"
+              className="room-image-hebergements desktop-only"
+            />
           </div>
         </div>
         <div className="room-description-text">

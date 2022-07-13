@@ -143,7 +143,7 @@ export const french = {
   pavillionLi8: "Lit bébé sur réservation (sans supplément)",
 
   appartP1:
-    "Hébergement situé au 1er étage de la grande maison en pierre, , idéal pour 2 personnes (il peut accueillir jusqu’à 4 personnes sur demande avec un supplément de 15€/personne/nuit). Lumineux & spacieux, vous vous y sentirez comme à la maison ! Une chambre avec lit double, un salon avec deux canapés convertibles (2personnes et 1 personne), une cuisine équipée, une salle de bain avec douche, et WC séparés. ",
+    "Hébergement situé au 1er étage de la grande maison en pierre, , idéal pour 2 personnes (il peut accueillir jusqu’à 4 personnes sur demande avec un supplément de 15€/personne/nuit). Lumineux & spacieux, vous vous y sentirez comme à la maison ! Une chambre avec lit double, un salon avec un canapé convertible, une cuisine équipée, une salle de bain avec douche, et WC séparés. ",
   appartP2:
     "Sans oublier son coin terrasse pour les repas au grand air ! Le terrasse est mitoyenne avec un autre hébergement mais chacun à son intimité !",
 

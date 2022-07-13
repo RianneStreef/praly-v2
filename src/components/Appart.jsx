@@ -22,6 +22,8 @@ import bikeParking from "../images/icons/velo.png";
 import clim from "../images/icons/clim.png";
 import bebe from "../images/icons/lit-bébé.png";
 
+import appartImage from "../images/appart-main.jpg";
+
 const Appart = (props) => {
   let { language, languageToUse } = props;
 
@@ -46,7 +48,7 @@ const Appart = (props) => {
 
   return (
     <>
-      <div className="chalet" id="appart">
+      <div className="appart" id="appart">
         <div className="header-placeholder" />
         <Link
           to="/appart-booking"
@@ -54,21 +56,31 @@ const Appart = (props) => {
         >
           {languageToUse.bookNow}
         </Link>
-        <div className="picto-container-herbergement picto-container-herbergement-appart ">
-          <img
-            src={pictoAppartColor}
-            alt="L'Appart"
-            className="picto-herbergement "
-          />
-          <h3 className="h3-room h3-appart">L'Appart</h3>
-        </div>
-        <div className="video-container-appart">
-          <Link
-            to="/appart-booking"
-            className="book-now book-now-appart desktop-only"
-          >
-            {languageToUse.bookNow}
-          </Link>
+        <div className="lodge-header-container ">
+          <div className="picto-outer-container">
+            <div className="picto-container-herbergement picto-container-herbergement-appart ">
+              <img
+                src={pictoAppartColor}
+                alt="L'Appart"
+                className="picto-herbergement "
+              />
+              <h3 className="h3-room h3-appart">L'Appart</h3>
+            </div>
+          </div>
+          <div className="video-container-horizontal">
+            <Link
+              to="/appart-booking"
+              className="book-now book-now-appart desktop-only"
+            >
+              {languageToUse.bookNow}
+            </Link>
+
+            <img
+              src={appartImage}
+              alt="L'Appart"
+              className="room-image-hebergements desktop-only"
+            />
+          </div>
         </div>
         <div className="room-description-text">
           <p className="room-text">{languageToUse.appartP1}</p>

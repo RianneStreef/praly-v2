@@ -58,7 +58,7 @@ const Chalet = (props) => {
         >
           {languageToUse.bookNow}
         </Link>
-        <div className="lodge-header-container">
+        <div className="lodge-header-container ">
           <div className="picto-outer-container">
             <div className="picto-container-herbergement picto-container-herbergement-chalet ">
               <img
@@ -87,7 +87,7 @@ const Chalet = (props) => {
             <img
               src={chaletImage}
               alt="Le Chalet"
-              className="room-image desktop-only"
+              className="room-image-hebergements desktop-only"
             />
           </div>
         </div>
