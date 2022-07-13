@@ -24,6 +24,8 @@ import bikeParking from "../images/icons/velo.png";
 import clim from "../images/icons/clim.png";
 import bebe from "../images/icons/lit-bébé.png";
 
+import chaletImage from "../images/new-images/chalet-ext2.jpg";
+
 const Chalet = (props) => {
   let { language, languageToUse } = props;
 
@@ -78,10 +80,15 @@ const Chalet = (props) => {
               controls
               autoPlay
               muted
-              className="room-video-horizontal room-video-chalet"
+              className="room-video-horizontal room-video-chalet mobile-only"
             >
               <source src={videoRoom1} type="video/mp4" />
             </video>
+            <img
+              src={chaletImage}
+              alt="Le Chalet"
+              className="room-image desktop-only"
+            />
           </div>
         </div>
         <div className="room-description-text">

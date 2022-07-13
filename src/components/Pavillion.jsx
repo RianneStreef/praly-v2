@@ -78,7 +78,7 @@ const Pavillion = (props) => {
               controls
               autoPlay
               muted
-              className="room-video-horizontal room-video-chalet"
+              className="room-video-horizontal room-video-chalet mobile-only"
             >
               <source src={videoRoom1} type="video/mp4" />
             </video>

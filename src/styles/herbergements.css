@@ -52,7 +52,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding-right: 5vw;
+  /* padding-right: 5vw; */
 }
 
 .picto-herbergement {
@@ -194,7 +194,8 @@
   }
 
   .picto-container-herbergement {
-    width: 50vw;
+    width: 40vw;
+    margin-left: -5vw;
   }
 
   .room-video {
