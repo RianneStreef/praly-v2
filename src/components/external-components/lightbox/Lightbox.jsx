@@ -22,7 +22,6 @@ const Lightbox = (props) => {
   }
 
   function setSliderLeft() {
-    console.log("previous image");
     if (currentImage > 0) {
       setCurrentImage(currentImage - 1);
     } else {
@@ -30,7 +29,6 @@ const Lightbox = (props) => {
     }
   }
   function setSliderRight() {
-    console.log("next image");
     if (currentImage < images.length - 1) {
       setCurrentImage(currentImage + 1);
     } else {
