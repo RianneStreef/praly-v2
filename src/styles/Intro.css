@@ -93,6 +93,11 @@
   width: 90%;
 }
 
+.groups-container {
+  display: flex;
+  flex-direction: column;
+}
+
 .groups {
   background-image: url("../images/slider/jardin2.jpg");
   background-size: cover;
@@ -136,7 +141,17 @@
   width: 25vw;
 }
 
-.button {
+.devis-button-container-mobile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.devis-button-container-desktop {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
 }
 
 .devis-button {
@@ -144,10 +159,12 @@
   color: #fff;
   padding: 10px 20px;
   border: none;
-  margin: 20px auto;
   text-transform: uppercase;
   font-family: "Futura Bold";
   border: 2px solid #000;
+  width: 120px;
+  text-align: center;
+  justify-content: center;
 }
 
 .devis-button:hover {

@@ -69,6 +69,7 @@ const Intro = (props) => {
       <Slider />
 
       <RoomIntro language={language} languageToUse={languageToUse} />
+
       <div className="groups" id="groups">
         <div className="header-placeholder" />
 
@@ -87,14 +88,24 @@ const Intro = (props) => {
                 <li>{languageToUse.privatisationText3}</li>
               </ul>
             </p>
-            <a
-              href="mailto:contact@leslodgesdepraly.fr"
-              className="devis-button"
-            >
-              {languageToUse.devis}
-            </a>
+            <div className="devis-button-container-desktop">
+              <a
+                href="mailto:contact@leslodgesdepraly.fr"
+                className="devis-button desktop-only"
+              >
+                {languageToUse.devis}
+              </a>
+            </div>
           </div>
         </div>
+      </div>
+      <div className="devis-button-container-mobile">
+        <a
+          href="mailto:contact@leslodgesdepraly.fr"
+          className="devis-button mobile-only"
+        >
+          {languageToUse.devis}
+        </a>
       </div>
     </div>
   );

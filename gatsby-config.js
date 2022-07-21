@@ -2,13 +2,7 @@ require("dotenv").config({
   path: `.env.${process.env.NODE_ENV}`,
 });
 
-// const intakeInfo = require("./src/content/intake");
 
-// let { siteName, companyName, highlightColor } = intakeInfo;
-
-// console.log("intake info in config");
-// console.log(intakeInfo);
-// console.log(siteName);
 
 module.exports = {
   siteMetadata: {
