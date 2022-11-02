@@ -30,8 +30,8 @@ const Footer = (props) => {
               <br />
               <span>+33 (0)6 79 84 10 08</span> <br />
               <span>
-                <a href="mailto:contact@leslodgesdepraly.com">
-                  contact@leslodgesdepraly.com
+                <a href="mailto:contact@leslodgesdepraly.fr">
+                  contact@leslodgesdepraly.fr
                 </a>
               </span>
             </div>
